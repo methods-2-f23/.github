@@ -44,7 +44,7 @@ This whole course (with a few exceptions) [is on YouTube](https://www.youtube.co
 
 We will be using a so-called 'flipped classroom' in this course. This means that you are generally expected to have read the literature and watched the videos before coming to the lecture. The purpose of the lecture then is for you to ask questions (the more, the better!) so that we can go over the material again together, deepening and broadening our understanding of it.
 
-## Slack workspace
+## Questions?
 
 In order for us to stay in contact, ask questions, and have discussions, we will use [GitHub Discussion](https://github.com/orgs/methods-2-f23/discussions).
 
